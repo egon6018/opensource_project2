@@ -5,7 +5,7 @@
 
 
 #Please write the GITHUB URL below!
-#git@github.com:egon6018/opensource_project2.git
+#https://github.com/egon6018/opensource_project2.git
 
 
 # In[22]:
